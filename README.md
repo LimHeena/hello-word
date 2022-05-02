@@ -1,4 +1,4 @@
 # hello-word
 My first repository
-Kyung-Hee University
-my name is Heena Lim
+My name is Heena Lim
+I am Kyung-Hee University student
